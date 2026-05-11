@@ -47,6 +47,8 @@ Then run the notebook in order.
 Based on the [Social Media Ad Engagement Dataset](https://www.kaggle.com/datasets/ziya07/social-media-ad-engagement-dataset) (Kaggle, 2025), 
 synthetically extended from 5 to 15 content categories with temporal stratification.
 
+Available here: https://www.kaggle.com/datasets/aaidoudi/user-social-network-interaction-temporal
+
 ## Author
 Aaron Aidoudi - M1 Distributed Artificial Intelligence, Université Paris Cité
 
